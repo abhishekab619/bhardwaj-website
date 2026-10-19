@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1050" role="img" aria-labelledby="title desc">
+  <title id="title">Growing into what is next</title>
+  <desc id="desc">An abstract botanical composition with a warm sun and olive and terracotta shapes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eadfc9"/><stop offset=".62" stop-color="#e8d4bd"/><stop offset="1" stop-color="#cfb89e"/></linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f2bb78"/><stop offset="1" stop-color="#dd8d67"/></linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#819581"/><stop offset="1" stop-color="#526c60"/></linearGradient>
+  </defs>
+  <rect width="800" height="1050" fill="url(#bg)"/>
+  <circle cx="570" cy="330" r="233" fill="url(#sun)" opacity=".91"/>
+  <circle cx="570" cy="330" r="261" fill="none" stroke="#a8644f" stroke-opacity=".25" stroke-width="2"/>
+  <path d="M0 722q175-136 347-62t453-105v495H0Z" fill="#b7b9a1" opacity=".62"/>
+  <path d="M0 817q170-143 352-45t448-62v340H0Z" fill="#bd8069" opacity=".73"/>
+  <path d="M0 921q180-87 370-31t430-19v179H0Z" fill="#5f7162"/>
+  <path d="M0 1023q223-81 438-43t362-34v104H0Z" fill="#3d584b"/>
+  <g fill="none" stroke="#3c5a4a" stroke-linecap="round">
+    <path d="M190 1100C224 742 156 467 97 194" stroke-width="8"/>
+    <path d="M218 863c109-160 120-277 146-486" stroke-width="7"/>
+    <path d="M607 1120c-66-206-31-405 95-647" stroke-width="7"/>
+  </g>
+  <g fill="url(#leaf)">
+    <path d="M118 327C4 260 4 184 53 157c66 25 103 87 65 170Z"/>
+    <path d="M145 482C34 422 15 345 66 316c69 23 111 98 79 166Z"/>
+    <path d="M195 641C62 594 47 505 106 474c77 32 119 89 89 167Z"/>
+    <path d="M207 728c127-77 154-170 108-203-71 11-128 93-108 203Z"/>
+    <path d="M225 873c126-62 179-150 134-189-80 4-139 92-134 189Z"/>
+    <path d="M305 512c96-76 128-151 94-186-65 3-110 75-94 186Z"/>
+    <path d="M624 723c-117-72-141-164-94-200 69 13 120 91 94 200Z"/>
+    <path d="M668 619c116-70 141-162 94-198-66 15-117 88-94 198Z"/>
+    <path d="M581 885c-109-67-152-147-104-190 76 12 119 101 104 190Z"/>
+  </g>
+  <g fill="none" stroke="#ecdcc3" opacity=".60" stroke-width="3">
+    <path d="M110 314q-29-59-57-157"/><path d="M139 464q-42-72-73-148"/><path d="M188 620q-43-87-82-146"/>
+    <path d="M230 706q57-86 88-178"/><path d="M242 841q67-75 109-146"/>
+    <path d="M640 599q45-85 120-174"/>
+  </g>
+  <circle cx="315" cy="169" r="4" fill="#805e4b" opacity=".45"/>
+  <circle cx="359" cy="197" r="2" fill="#805e4b" opacity=".4"/>
+  <path d="m339 132 7 11 11-7m-11 7 7 11" fill="none" stroke="#805e4b" stroke-width="2" opacity=".5"/>
+</svg>
