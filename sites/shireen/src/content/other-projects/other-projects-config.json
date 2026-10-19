@@ -1,0 +1,44 @@
+[
+    {
+        "id": "other-project-linxup",
+        "title": "Linxup: Sales Analysis",
+        "year": "Sep 2024 - Dec 2024",
+        "location": "Boston",
+        "demo": "https://docs.google.com/presentation/d/1-08KTWArQWI3YAsXCFt0-8m452dhkiQU/edit?usp=sharing&ouid=102141272048718845583&rtpof=true&sd=true",
+        "github": "https://github.com/shireenbhardwaj/linxup-sales-analysis",
+        "tags": ["Python", "LightGBM", "Tableau", "MS Excel", "Pivot Tables", "VLOOKUP", "Google Colab"],
+        "description": "A capstone project with Linxup, a vehicle tracking solutions company, to segment customers using historical sales data for targeted marketing campaigns and, to promptly identify timelines for potential upsell opportunities.",
+        "image": "/shireen/assets/featured-projects/f1.png",
+        "jpg": "/shireen/assets/featured-projects/f1.png"
+    },
+    {
+        "id": "other-project-image-forgery",
+        "title": "Image Forgery Detection using Deep Learning",
+        "year": "Jan 2024 – Apr 2024",
+        "tags": ["Python", "ResNet-101", "CNN", "Django", "Google Colab", "Image Processing", "Keras", "Scikit-Learn"],
+        "description": "Detecting image splicing and copy-move forgery using deep learning to combat misinformation and cyber threats.",
+        "github": "https://github.com/shireenbhardwaj/ImageSplicing-DeepLearning",
+        "image": "/shireen/assets/other-projects/imageforgery.png",
+        "jpg": "/shireen/assets/other-projects/imageforgery.png"
+    },
+    {
+        "id": "other-project-mental-health",
+        "title": "Impact of Mental Health on Academic Performance",
+        "year": "Sep 2023 - Dec 2023",
+        "tags": ["Python", "Power BI", "Exploratory Data Analysis", "Statistical Modeling", "Jupyter Notebook"],
+        "description": "This project explores mental health trends among students using multiple survey datasets and visualizes the insights using a Power BI dashboard.",
+        "github": "https://github.com/shireenbhardwaj/MentalHealth-on-AcademicPerformance",
+        "image": "/shireen/assets/other-projects/mentalhealth.png",
+        "jpg": "/shireen/assets/other-projects/mentalhealth.png"
+    },
+    {
+        "id": "other-project-nycbuildings",
+        "title": "NYC Buildings",
+        "year": "May 2024",
+        "tags": ["Power BI", "DAX", "Excel"],
+        "description": "A Power BI Dashboard detailing building permits, violations, and construction trends to support urban development and regulatory compliance.",
+        "github": "https://github.com/shireenbhardwaj/nyc-buildings-powerbi-dashboard",
+        "image": "/shireen/assets/other-projects/nycbuildings.PNG",
+        "jpg": "/shireen/assets/other-projects/nycbuildings.PNG"
+    }
+]

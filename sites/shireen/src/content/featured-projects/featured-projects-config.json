@@ -1,0 +1,55 @@
+[
+    {
+        "id": "featured-project-feastfleet",
+        "title": "Feast Fleet",
+        "year": "Sep 2024 - Dec 2024",
+        "location": "Boston",
+        "demo": "https://docs.google.com/presentation/d/1rqB_MzDPAMHXaQ_XbvUj7SGzogVOvp8Z/edit?usp=sharing&ouid=102141272048718845583&rtpof=true&sd=true",
+        "github": "https://github.com/shireenbhardwaj/Feast-Fleet",
+        "tags": ["MySQL", "ER Diagrams", "Schema", "Normalization", "Indexing", "Query Optimization", "Foreign Keys, Constraints"],
+        "description": "A comprehensive relational database for modern food delivery services.",
+        "image": "/shireen/assets/featured-projects/FeastFleet.png",
+        "jpg": "/shireen/assets/featured-projects/FeastFleet.png"
+    },
+    {
+        "id": "featured-project-employee-churn",
+        "title": "Predicting Employee Churn Using Machine Learning",
+        "year": "May 2024 - June 2024",
+        "location": "Boston",
+        "demo": "https://employee-churn-prediction-using-ml.streamlit.app/",
+        "github": "https://github.com/shireenbhardwaj/EmployeeChurnPrediction-using-MachineLearning",
+        "tags": [
+          "Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn", "XGBoost", "Machine Learning", "Data Analysis", "Streamlit"
+        ],
+        "description": "A Streamlit web app that leverages XGBoost to forecast employee churn from key employee metrics.",
+        "image": "/shireen/assets/featured-projects/f2.png",
+        "jpg": "/shireen/assets/featured-projects/f2.png"
+      },
+    {
+        "id": "featured-project-EV-ChargingStations",
+        "title": "Gap Analysis: Electric Vehicle and Charging Stations",
+        "year": "Jan 2024 - Apr 2024",
+        "location": "Northeastern University",
+
+        "tags": [
+            "Tableau", "Python", "Google Colab", "Regression Model", "Forecasting"
+        ],
+        "demo": "https://docs.google.com/presentation/d/1T_l9F0udH-UvfbHwRrSIRkH8v51lMJbP/edit?usp=sharing&ouid=102141272048718845583&rtpof=true&sd=true",
+        "github": "https://github.com/shireenbhardwaj/electricvehicle-chargingstations-analysis",
+        "description": "Analyzed the gap between electric vehicle growth and charging infrastructure and uncovered key insights using Tableau dashboards.",
+        "readMore": "https://docs.google.com/document/d/1jqCRDEjffm_At83rfWNK7eGZXNnIAxgp/edit?usp=sharing&ouid=102141272048718845583&rtpof=true&sd=true",
+        "image": "/shireen/assets/featured-projects/f3.png",
+        "jpg": "/shireen/assets/featured-projects/f3.png"
+    },
+    {
+        "id": "featured-project-measure-divvybikes",
+        "location": "Northeastern University",
+        "title": "Divvy Bikes Dashboard",
+        "year": "June 2024",
+        "tags": ["Microsoft Power BI", "Microsoft Excel", "DAX Functions", "Schema"],
+        "github": "https://github.com/shireenbhardwaj/divvy-bikes-interactive-dashboard",
+        "description": "An interactive PowerBI dashboard to track and understand Divvy Bikes demand in Chicago.",
+        "image": "assets/featured-projects/f4.png",
+        "jpg": "assets/featured-projects/f4.png"
+    }
+]
